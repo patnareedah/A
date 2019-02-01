@@ -1,2 +1,3 @@
-##EX \n
-#N
+##EX \newline
+#d
+
